@@ -1,10 +1,8 @@
-## Topic 11: Smart Contract Security Best Practices
+# Topic 11: Smart Contract Security Best Practices
 
-This topic covers all common security risks developers need to take into
-consideration when writing smart contracts. We will also talk about best practices 
-to avoid those security risks
+This topic covers all common security risks developers need to take into consideration when writing smart contracts. We will also talk about best practices to avoid those security risks
 
-### Agenda
+## Agenda
 
 * Overview of known vulnerabilities
   * Missing ownership check
@@ -17,15 +15,10 @@ to avoid those security risks
 * How anchor helps with security vulnerabilities
 * Sealevel attacks on anchor
 
+## Overview of the sources
 
-### Overview of the sources
+Repo dedicated to smart contract security best practices: https://github.com/slowmist/solana-smart-contract-security-best-practices
 
-Repo dedicated to smart contract security best practices:
-https://github.com/slowmist/solana-smart-contract-security-best-practices
+[Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana\_common\_pitfalls/)
 
-[Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana_common_pitfalls/)
-
-
-github repo: [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
-where some possible exploits and their recommended safety checks are given.
-
+github repo: [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) where some possible exploits and their recommended safety checks are given.

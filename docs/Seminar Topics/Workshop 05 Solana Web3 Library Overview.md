@@ -1,4 +1,4 @@
-### Workshop 05: Solana Web3 Library Overview
+# Workshop 05: Solana Web3 Library Overview
 
 * installing library to the sample project
 * basic capabilities of the library
@@ -24,9 +24,6 @@
 * fetching SPL token balances for specific wallet
 * deserializing data from different program accounts
 
-
 [Solasna Web3.js quickstart](https://docs.solana.com/developing/clients/javascript-api)
 
 [Transaction processing (somewhat a deep dive)](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)
-
-

@@ -1,12 +1,8 @@
-## Topic 9: Writing On Chain Programs on Solana
+# Topic 10: Native Solana development
 
-In this section we will be discussing writing native programs on solana, without using 
-anchor framework. The main goal of the section is to 
-get the audience acquainted with the approach solana took in designing its programs 
-(aka smart contracts). At this points student should already be familiar with basic rust
-functionality as it's already covered in Workshops and assignments, and how programs are developed with anchor.
+In this section we will be discussing writing native programs on solana, without using anchor framework. The main goal of the section is to get the audience acquainted with the approach solana took in designing its programs (aka smart contracts). At this points student should already be familiar with basic rust functionality as it's already covered in Workshops and assignments, and how programs are developed with anchor.
 
-### Agenda
+## Agenda
 
 * Revision of what we already know about programs
 * Building an escrow Program
@@ -16,10 +12,7 @@ functionality as it's already covered in Workshops and assignments, and how prog
   * Entrypoints
   * Implementing instructions
 
-
-This Section will mainly be covering paulx's article abount an introduction to the programming on solna:
-[Programming on Solana - An Introduction | paulx](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/).
-The article is quite in depth and intensive for begginners, but it gives really essential information.
+This Section will mainly be covering paulx's article abount an introduction to the programming on solna: [Programming on Solana - An Introduction | paulx](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/). The article is quite in depth and intensive for begginners, but it gives really essential information.
 
 here are some additional resources on writting solana programs:
 

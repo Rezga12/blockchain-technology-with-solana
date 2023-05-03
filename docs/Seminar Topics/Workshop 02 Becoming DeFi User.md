@@ -1,4 +1,4 @@
-## Workshop 02: becoming a defi user
+# Workshop 02: Becoming DeFi User
 
 * how defi wallets work
 * overviewing popular solana wallets
@@ -32,7 +32,3 @@
   * Magic Eden (the only marketplace you have to care on solana)
 
 [phantom wallet guide](https://www.cryptonary.com/cryptoschool/tutorial-how-to-use-phantom/)
-
-
-
-

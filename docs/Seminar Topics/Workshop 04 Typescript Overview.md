@@ -1,10 +1,6 @@
-### Workshop 03: Typescript Overview
+# Workshop 04: Typescript Overview
 
-typescript is important part of Solana development. all the main libraries 
-created for working with Solana are actively developed and highly supported on typescript.
-in this workshop section we will have a look at typescript project structure and 
-learn how to download and use packages from npm. also how to run scripts without transpiling with
-ts-node package.
+typescript is important part of Solana development. all the main libraries created for working with Solana are actively developed and highly supported on typescript. in this workshop section we will have a look at typescript project structure and learn how to download and use packages from npm. also how to run scripts without transpiling with ts-node package.
 
 * typescript basics
   * Basic syntax
@@ -29,13 +25,4 @@ ts-node package.
   * writing sample code
   * running index.ts with ts-node
 
-
-[Typescript Basics](https://www.tutorialspoint.com/typescript/typescript_ambients.htm)
-
-
-
-
-
-
-
-
+[Typescript Basics](https://www.tutorialspoint.com/typescript/typescript\_ambients.htm)

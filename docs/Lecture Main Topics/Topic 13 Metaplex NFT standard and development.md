@@ -1,10 +1,8 @@
-## Metaplex NFT standard and development
+# Topic 13: Metaplex NFT standard and development
 
-this chapter will discuss metaplex nft standard in detail. students will become acquinted with metaplex ecosystem,
-how is nft information stored on chain and off chain, and what tools metaplex provides to make nft development experience
-easier.
+this chapter will discuss metaplex nft standard in detail. students will become acquinted with metaplex ecosystem, how is nft information stored on chain and off chain, and what tools metaplex provides to make nft development experience easier.
 
-### Agenda
+## Agenda
 
 * Metaplex standard High level overview
 * Building Blocks Of THe protocol
@@ -27,7 +25,6 @@ easier.
   * Metaplex program library
   * metaplex typescript package
 
-
-### Overview of the sources
+## Overview of the sources
 
 All the information in this topic will be taken from [metaplex docs website](https://docs.metaplex.com)

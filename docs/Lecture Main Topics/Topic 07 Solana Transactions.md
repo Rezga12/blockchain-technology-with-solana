@@ -1,10 +1,8 @@
-## Topic 8: Solana Transactions
+# Topic 07: Solana Transactions
 
-This Section goes through solana transaction overview, as we know every operation on a blockchain
-needs transaction submitted to the cluster. We explain how is transaction received, processed and commited
-by the cluster. We will also look at transaction anatomy and what disect it's data model
+This Section goes through solana transaction overview, as we know every operation on a blockchain needs transaction submitted to the cluster. We explain how is transaction received, processed and commited by the cluster. We will also look at transaction anatomy and what disect it's data model
 
-### Agenda
+## Agenda
 
 * Overview Of A transaction
 * Anatomy of a Transaction
@@ -12,7 +10,7 @@ by the cluster. We will also look at transaction anatomy and what disect it's da
   * Instructions format
   * Signatures
   * Account addresses format
-  * Compact array 
+  * Compact array
 * Instructions
   * Instruction data
   * program Id
@@ -27,16 +25,14 @@ by the cluster. We will also look at transaction anatomy and what disect it's da
 * Getting comfortable with analyzers like solscan or solana.fm
 * show transactions of our pseudocode programs and demystifing them
 
-### Overview Of The Sources
+## Overview Of The Sources
 
 * [Transactions | Solana Docs](https://docs.solana.com/developing/programming-model/transactions)
 * [Transactions | Solana Cookbook](https://solanacookbook.com/core-concepts/transactions.html#facts)
 
-Mapping solana transaction field to ethereum ones & underlining differences and similarities:
-[Transaction | Solana Wiki](https://solana.wiki/docs/solidity-guide/transactions/#solana-transaction-structure)
+Mapping solana transaction field to ethereum ones & underlining differences and similarities: [Transaction | Solana Wiki](https://solana.wiki/docs/solidity-guide/transactions/#solana-transaction-structure)
 
-Introduction of Transaction fees and Account Rend:
-[Transaction Fees | Solana Docs](https://docs.solana.com/developing/intro/transaction_fees)
+Introduction of Transaction fees and Account Rend: [Transaction Fees | Solana Docs](https://docs.solana.com/developing/intro/transaction\_fees)
 
 A bit more of a deep dive on how are fees calculated: [Fee Determinism article](https://jstarry.notion.site/Transaction-Fees-f09387e6a8d84287aa16a34ecb58e239)
 
@@ -45,7 +41,8 @@ Medium article about what a serialized transaction model looks like:
 [Solana Transactions in Depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2)
 
 Articles about transaction Finality Statuses, general issues and why transactions get skipped:
-* [Transaction Confirmation](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317?p=d5b8f4e09b9c4a70a1f263f82307d7ce&pm=c)
+
+* [Transaction Confirmation](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317?p=d5b8f4e09b9c4a70a1f263f82307d7ce\&pm=c)
 * [Retrying Transactions | Solana Cookbook](https://solanacookbook.com/guides/retrying-transactions.html#facts)
 
 Popular Explorers, differences and which one to use:
@@ -55,6 +52,7 @@ Popular Explorers, differences and which one to use:
 * https://solana.fm/
 
 Common terminologies:
+
 * TPS
 * Current Block
 * Block Hash
