@@ -7,6 +7,7 @@
   * [Topic 02: Bitcoin History And Technical Overview](<Lecture Main Topics/Topic 02 Bitcoin History And Technical Overview.md>)
   * [Topic 03: Introduction to Smart Contracts & DeFi](<Lecture Main Topics/Topic 03 Introduction to Smart Contracts & DeFi.md>)
   * [Topic 04: Keys, Addresses and Wallet Technologies](<Lecture Main Topics/Topic 04 Keys, Addresses and Wallet Technologies.md>)
+  * [Topic 05: Ethereum Technical overview and architectural components](topics/lecture-main-topics/topic-04-keys-addresses-and-wallet-technologies-1.md)
   * [Topic 05: Solana Blockchain Architecture](<Lecture Main Topics/Topic 05 Solana Blockchain Architecture.md>)
   * [Topic 06: Solana Accounts and Programs](<Lecture Main Topics/Topic 06 Solana Accounts and Programs.md>)
   * [Topic 07: Solana Transactions](<Lecture Main Topics/Topic 07 Solana Transactions.md>)
