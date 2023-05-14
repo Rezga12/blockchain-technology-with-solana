@@ -24,6 +24,8 @@
   * [Workshop 01: Rust Basics](<Seminar Topics/Workshop 01 Rust Basics.md>)
   * [Workshop 02: Becoming DeFi User](<Seminar Topics/Workshop 02 Becoming DeFi User.md>)
   * [Workshop 03: solana CLI tool](<Seminar Topics/Workshop 03 solana CLI tool.md>)
+  * [Workshop 03: Smart contract Development with Remix IDE](<Seminar Topics/Workshop 03: Smart contract Development with Remix IDE.md>)
+  * [Workshop 04: Solidity Smart contract exercises.md](<Seminar Topics/Workshop 04: Solidity Smart contract exercises.md>)
   * [Workshop 04: Typescript Overview](<Seminar Topics/Workshop 04 Typescript Overview.md>)
   * [Workshop 05: Solana Web3 Library Overview](<Seminar Topics/Workshop 05 Solana Web3 Library Overview.md>)
   * [Workshop 06: Simple challenges with web3.js](<Seminar Topics/Workshop 06 Simple challenges with web3.js.md>)

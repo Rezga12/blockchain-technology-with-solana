@@ -1,6 +1,14 @@
 # Workshop 02: Becoming DeFi User
 
 * how defi wallets work
+* Ethereum
+  * Using Metamask
+  * Connecting metamask to different networks
+    * Sepolia
+    * Goerli
+    * Ethereum Mainnet
+  * How to airdrop yourself some ETH on sepolia network
+  * interesting example: [Sepolia POW Faucet](https://sepolia-faucet.pk910.de/)
 * overviewing popular solana wallets
   * **Phantom**
     * helping students to set up phantom wallets in their browsers
