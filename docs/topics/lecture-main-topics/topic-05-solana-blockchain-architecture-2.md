@@ -29,7 +29,7 @@ Articles About Solanas 8 Key innovations:
 * [Proof Of History:](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274) A Clock for Blockchain
 * [Tower BFT:](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79): Solana’s consensus algorithm implementation
 * [GulfStream:](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad) Solana's mempool-less Transaction forwarding Protocol
-* [Sealevel:](<Topic 05 Solana Blockchain Architecture.md>) Parallel smart contract tuntime
+* [Sealevel:](topic-05-solana-blockchain-architecture-2.md) Parallel smart contract tuntime
 * [Pipelining:](https://medium.com/solana-labs/pipelining-in-solana-the-transaction-processing-unit-2bb01dbd2d8f) The Transaction processing unit
 * [Turbine:](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) A block propagation protocol
 * [Cloudbreak:](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) Horizontally scaled account database
