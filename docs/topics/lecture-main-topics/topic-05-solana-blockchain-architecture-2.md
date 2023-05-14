@@ -1,43 +1,57 @@
-# Topic 05: Solana Blockchain Architecture
+# Topic 08: Concept of Oracles and Layer 2 protocols
 
-This topic serves as a form of introduction of solana blockchain. Here we will underline it's key features and benefits. As the audience already should have general grasp of how things work in a blockchain ecosystem some topics will be easier to read and easier to understand. The accents will be held mostly on Solana architecture and Will have mostly educational approach than hands on tutorials.
+In previous section we talked about limitations of smart contracts. The oracles - third party trusted entities to aid enhancement of smart contract functionality were introduced for that matter.We will be talking about the most well known chain of oracles: **Chainlink.** also we will discuss the concept of layer 2 protocols _(through not in great detail)_ and discuss what are their benefits and how are they used. The most relevant example will be **Polygon** blockchain.
 
 ## Agenda
 
-* Introduction
-  * A brief history of Solana
-  * Key features and advantages compared to other blockchains
-  * Overview Of The solana Ecosystem
-* Architecture
-  * Network Design
-  * Proof Of History
-  * Proof Of Stake
-  * Transaction Processing and pipelining
-  * Block Propagation Algorithm
-  * How Solana solves Two Generals Problem (TowerBft)
+* The concept of oracles
+  * The problems with traditional smart contracts
+    * how to determine current gas price
+    * determine current USD value of Ethereum
+    * Determine the state of the weather
+    * Flip a Coin (Heads / Tails)
+    * make an API call to the external resource
+  * How oracles work
+  * Common use cases and examples of oracles
+* **Chainlink**
+  * The oracle problem and how chainlink solves it
+    * Chainlink protocol: the standard for oracle networks
+  * LINK token and how it is utilized
+  * Chainlink features:
+    * Data feeds
+    * Chainlink functions
+    * Automate Contracts
+    * Verifiable Random functions
+    * External API calls
+* Examples of using Data Feeds
+  * Example 1: assert function on sent value in USD
+    * how to use Chainlink ETH/USD Price feed in a smart contract
+  * Example 2: writing simple coin flip view function in a smart contract
+    * how to use Chainlink VRFs
+* Layer 2 protocols
+  * The problems with ethereum
+    * high transaction fees / gas price
+    * low scallability
+  * Polygon: Layer 2 for ethereum
+    * how polygon functions
+    * what are **rollups**
 
 ## Overview Of Sources
 
-[Entry level Overview of solana](https://2501babe.github.io/posts/solana101.html)
+youtube videos:\
+[What are Oracles in Crypto? (Animated) - Whiteboard Crypto](https://www.youtube.com/watch?v=uycQ7ReSt\_c)\
+[What is a Blockchain Oracle? | Chainlink Engineering Tutorials](https://www.youtube.com/watch?v=ZJfkNzyO7-U)
 
-[What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
+[What is a blockchain oracle | Medium article](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72)
 
-Explaining Solanas key innovations for non developers: [Solana's Innovations - a jargon-free explanation](https://learn.figment.io/tutorials/explaining-solana-for-beginners)
+[https://supraoracles.com/academy/what-are-oracles/](https://supraoracles.com/academy/what-are-oracles/) - a good article about different types of oracles and their use cases. also a good related articles section.
 
-Articles About Solanas 8 Key innovations:
+[Chainlink exploits lead to ETH losses—again](https://coingeek.com/chainlink-exploits-lead-to-eth-losses-again/) - a small article about what might happen if you trust too much in oracles.
 
-* [Proof Of History:](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274) A Clock for Blockchain
-* [Tower BFT:](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79): Solana’s consensus algorithm implementation
-* [GulfStream:](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad) Solana's mempool-less Transaction forwarding Protocol
-* [Sealevel:](topic-05-solana-blockchain-architecture-2.md) Parallel smart contract tuntime
-* [Pipelining:](https://medium.com/solana-labs/pipelining-in-solana-the-transaction-processing-unit-2bb01dbd2d8f) The Transaction processing unit
-* [Turbine:](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) A block propagation protocol
-* [Cloudbreak:](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) Horizontally scaled account database
-* [Archivers:](https://docs.solana.com/proposals/ledger-replication-to-implement) Solana's distributed ledger technology, ledger replication
+how chainlink data feeds work: [Chainlink Data Feeds](https://docs.chain.link/data-feeds)\
+[using data feeds](https://docs.chain.link/data-feeds/using-data-feeds)
 
-There's no need to go into details of all those features, but would be benefitial mentioning them Also there are several good articles about transaction lifecycle on solana and why transactions are getting skipped:
+[Introduction to Chainlink VRF](https://docs.chain.link/vrf/v2/introduction) - we will discuss VRFs and other chainlink functionality just in the sake of demonstration. we will not be going in much more detail. if students have interest in learning about them we will be happy to provide additional resources and code samples.
 
-* [Solana Validator 101: Transaction Processing](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)
-* [Solana Cookbook: Retrying Transactions](https://solanacookbook.com/guides/retrying-transactions.html#facts)
-
-Also this video covers and explain a lot of implementation details and how are all things connected int the network: [Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana](https://www.youtube.com/watch?v=rKGhbC6Uync) Here's [Conspects](https://github.com/lsmod/proof-of-history-explained#ok-i-get-proof-of-history-whats-the-point) for the video
+\
+[Polygon (MATIC): The Swiss Army Knife of Ethereum Scaling](https://www.gemini.com/cryptopedia/polygon-crypto-matic-network-dapps-erc20-token) - briefly about polygon.
