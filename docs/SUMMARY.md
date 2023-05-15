@@ -51,6 +51,7 @@
   * [Assignment 01: Simple Rust Programs](<Assignments & Projects/Assignment 01 Simple Rust Programs.md>)
   * [Assignment 02: Merkle Trees With Rust](<Assignments & Projects/Assignment 02 Merkle Trees With Rust.md>)
   * [Assignment 03: Merkle Distributor for Airdrop](<Assignments & Projects/Assignment 02 Merkle Distributor for Airdrop.md>)
+  * [Assignment 04: Solidity Token Auction](<Assignments & Projects/Assignment 04: Solidity Token Auction.md>)
   * [Assignment 04: Web3 Wallet](<Assignments & Projects/Assignment 03 Web3 Wallet.md>)
   * [Assignment 05: Fun With Transactions](<Assignments & Projects/Assignment 04 Fun With Transactions.md>)
   * [Assignment 06: Debt Tracker DApp](<Assignments & Projects/Assignment 05 Debt Tracker DApp.md>)
