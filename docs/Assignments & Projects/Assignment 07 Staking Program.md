@@ -1,5 +1,8 @@
 # Assignment 08: Staking Program
 
+### 16 hours
+### 20 hours with client
+
 Staking is a process of locking some amount of tokens for a period of time in exchange for receiving more tokens (same or other type). In This assignment students will have to write a single side staking program.\
 Starting files will be located in `./src` directory
 

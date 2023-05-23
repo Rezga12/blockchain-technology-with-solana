@@ -1,4 +1,5 @@
 # Assignment 01: Simple Rust Programs
+### 6-8 hours
 
 This assignment is fairly simple and doesn't contain a lot of theory about blockchain technologies. The main goal for the exercises is to get students acquainted to rust.
 

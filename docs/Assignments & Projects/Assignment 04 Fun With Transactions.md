@@ -1,4 +1,5 @@
 # Assignment 05: Fun With Transactions
+### 5-6 hours
 
 In this assignment, through several real world use cases students will learn how to fetch, filter, parse and generate transactions for `solana blockchain`.\
 Starter files will be provided in the `./src` folder. Through There will not be much of them for this assignment.\\

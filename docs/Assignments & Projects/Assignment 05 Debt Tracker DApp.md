@@ -1,5 +1,7 @@
 # Assignment 06: Debt Tracker DApp
 
+### 14-16 hours
+
 In This assignment students will use `Anchor, Solana's Sealevel runtime framework` framework to implement a smart contract or `Program` functionality on Solana\
 Starting project will be in `./src` directory. This Project is similar to stanford [cs251's one](https://cs251.stanford.edu/hw/proj3.pdf) but re-adjusted for Solana.
 

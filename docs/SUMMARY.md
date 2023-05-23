@@ -48,6 +48,7 @@
 ## Projects
 
 * [Assignments & Projects](<Assignments & Projects/README.md>)
+  * [Assignment Time Estimates](<Assignments & Projects/Assignment Durations.md>)
   * [Assignment 01: Simple Rust Programs](<Assignments & Projects/Assignment 01 Simple Rust Programs.md>)
   * [Assignment 02: Merkle Trees With Rust](<Assignments & Projects/Assignment 02 Merkle Trees With Rust.md>)
   * [Assignment 03: Merkle Distributor for Airdrop](<Assignments & Projects/Assignment 02 Merkle Distributor for Airdrop.md>)

@@ -1,5 +1,5 @@
 # Assignment 04: Web3 Wallet
-
+### 14-16 hours
 In this assignment students will be required to implement Web3 wallet functionality for solana using **Typescript** and `@solana/web3` library\
 Starter files will be provided in the `./src` folder.\\
 

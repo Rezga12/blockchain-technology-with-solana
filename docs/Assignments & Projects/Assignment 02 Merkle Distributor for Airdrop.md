@@ -1,5 +1,7 @@
 # Assignment 03: Merkle Distributor for Airdrop
 
+### 8-10 hours
+
 In this Assignment students will be implementing a small airdrop program, first with linear wallet storage and then with **merkle tree distributor** for validating eligible wallets for airdrop.\
 Starting Files Will be located in `./src`
 

@@ -1,4 +1,7 @@
 ### Assignment 04: Solidity Token Raffle Auction.md
+
+### 10-12 hours
+
 this assignment requires for students to write ERC20/ERC721 token auction smart contract, where bidders pay ETH to compete in winning
 auction. or it might be the other way around, they bid specific ERC20 token to win specified Nft.
 

@@ -1,4 +1,5 @@
 # Assignment 02: Merkle Trees With Rust
+### 5-6 hours
 
 In this project students will be required to implement a rust function to generate a Merkle proof. Starter files will be provided in the `./src` folder.\\
 

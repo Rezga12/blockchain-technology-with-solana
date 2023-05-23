@@ -1,5 +1,7 @@
 # Assignment 07: Simple Decentralized Exchange
 
+### 20 hours
+
 In this assignment students are required to build a decentralized exchange, using _**Constant function automated market maker method**_ (CFAMM for short). The main challenge is to write a solana program to support all the functionality needed to make our DEX work.\
 Students will be using `Anchor` framework for building the program as well as the frontend client. starting files will be located in `./src` folder, but there will not be much of them.
 
