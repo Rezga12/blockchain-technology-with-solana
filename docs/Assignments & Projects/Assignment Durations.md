@@ -13,3 +13,7 @@ Assignments are not necessarily in order yet
 * Assignment 09: Nft Renting Program **35-40 hours**
 
 **total estimate: 131-144**
+
+
+link:
+[Link To First Article](<../Bonus Projects/Bonus 01 Finding An Exploit For Deployed Solana Program.md>)
