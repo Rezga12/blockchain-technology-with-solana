@@ -44,7 +44,7 @@
   * [Workshop 21: Candy Machine](<Seminar Topics/Workshop 21 Candy Machine.md>)
   * [Workshop 22: Nft Escrow Program](<Seminar Topics/Workshop 21 Nft Escrow Program.md>)
   * [Workshop 23: Nft Marketplace Program](<Seminar Topics/Workshop 22 Nft Marketplace Program.md>)
-  * [Course Timelines](<Seminar Topics/Course Timelines.md>)
+  * [Workshop 24: Test Workshop](<Seminar Topics/Workshop 24 Test Test.md>)
 
 ## Projects
 
