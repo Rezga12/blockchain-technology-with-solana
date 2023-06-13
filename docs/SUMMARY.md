@@ -3,6 +3,7 @@
 ## Topics
 
 * [Lecture Topics](README.md)
+  * [Course Timeline](<Lecture Main Topics/Course Timeline.md>)
   * [Topic 01: Blockchain General Introduction](<Lecture Main Topics/Topic 01 Blockchain General Introduction.md>)
   * [Topic 02: Bitcoin History And Technical Overview](<Lecture Main Topics/Topic 02 Bitcoin History And Technical Overview.md>)
   * [Topic 03: Introduction to Smart Contracts & DeFi](<Lecture Main Topics/Topic 03 Introduction to Smart Contracts & DeFi.md>)
