@@ -63,3 +63,13 @@ Couple interesting articles about why bitcoin has value and where it comes from.
 * [AN EXPLORATION OF INTRINSIC VALUE: WHAT IT IS, WHY BITCOIN DOESN’T HAVE IT, AND WHY BITCOIN DOES HAVE IT](https://bitcoinmagazine.com/culture/an-exploration-of-intrinsic-value-what-it-is-why-bitcoin-doesnt-have-it-and-why-bitcoin-does-have-it)
 
 This topic will also contain a little introduction about side chains. taking as example bitcoin side chain [The Lightning Network](https://lightning.network/)
+
+Bitcoin scrypt language overview: https://betterprogramming.pub/the-bitcoin-script-language-e4379908448f
+[Scrypt | Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
+
+
+[UTXO Model: Definition, How It Works, and Goals](https://www.investopedia.com/terms/u/utxo.asp)
+https://finbold.com/guide/what-is-utxo/
+
+
+
